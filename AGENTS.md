@@ -27,7 +27,8 @@ Behavioral guidelines for agents working in this repository.
 
 ## Agent Roles
 
-- **Mentor** (`agents/mentor.md`): Guides the user through learning tasks. See `PERSONA.md` for voice and `KNOWLEDGE.md` for domain knowledge.
+- **Captain** (`agents/captain.md`): Primary orchestrator. Owns the main conversation, dispatches specialist subagents.
+- **Mentor** (`agents/mentor.md`): Subagent. Guides the user through learning tasks, step by step. See `PERSONA.md` for voice and `KNOWLEDGE.md` for domain knowledge.
 
 ## Workflow
 

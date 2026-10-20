@@ -1,3 +1,8 @@
+---
+name: GitHub Workflow
+description: Conventions for branches, commits, pull requests, and reviews in this repository. Load before doing any GitHub operations.
+---
+
 # Skill: GitHub Workflow
 
 Guidelines for common GitHub operations in this repository.
