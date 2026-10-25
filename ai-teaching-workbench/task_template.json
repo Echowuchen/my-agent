@@ -1,0 +1,25 @@
+{
+  "task_id": "test-climb-tiantoufeng-001",
+  "subject": "语文",
+  "textbook": "统编版",
+  "grade": "四年级上册",
+  "lesson_title": "爬天都峰",
+  "lesson_count": 2,
+  "audience": "小学四年级学生",
+  "style": "综合优质课风格：目标清晰、情境真实、以学生学习活动为主，师生对话自然，重视朗读、思考、表达和评价",
+  "outputs": [
+    "teaching_design",
+    "teacher_script",
+    "html_slides",
+    "image_prompts",
+    "svg_visual_cards"
+  ],
+  "constraints": [
+    "先依据任务提供的信息生成，不要捏造教材原文或权威出处",
+    "区分文本中明确的信息与教师设计建议",
+    "教学流程要与两课时匹配，并给出时间分配",
+    "逐字稿应有教师语言、预设学生回答、追问、过渡语和课堂评价",
+    "课件内容精炼，适合投影展示"
+  ],
+  "extra_requirements": "请先输出可供教师审阅的草稿，重点关注教学目标、重点难点、课堂活动与评价一致性。"
+}
